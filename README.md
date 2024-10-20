@@ -1,4 +1,4 @@
-# Cloud Storage Application
+# Google Drive Application
 
 <img src="public/loginPage.png" alt="drawing" width="500"/>              <img src="public/home.png" alt="drawing" width="500"/>
 
@@ -35,7 +35,7 @@ Explore App [here](https://google-drive-clone-roan.vercel.app/)
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Mayankkatheriya/google-drive-clone.git`
+ 
 2. Change into the project directory: `cd google-drive-clone`
 3. Install dependencies: `npm install`
 
